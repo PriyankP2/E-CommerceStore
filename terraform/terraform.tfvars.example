@@ -1,9 +1,0 @@
-dockerhub_username = "priyank0202"
-
-mongo_uri_users    = "mongodb+srv://dbUser:dbUserPassword@cluster0.fhrg87w.mongodb.net/ecommerce_users"
-mongo_uri_products = "mongodb+srv://dbUser:dbUserPassword@cluster0.fhrg87w.mongodb.net/ecommerce_products"
-mongo_uri_carts    = "mongodb+srv://dbUser:dbUserPassword@cluster0.fhrg87w.mongodb.net/ecommerce_carts"
-mongo_uri_orders   = "mongodb+srv://dbUser:dbUserPassword@cluster0.fhrg87w.mongodb.net/ecommerce_orders"
-
-jwt_secret         = "some-very-long-random-secret-key-here"
-key_pair_name      = "my-aws-keypair"

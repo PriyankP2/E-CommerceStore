@@ -223,3 +223,27 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Build
+build/
+
+# Docker
+docker-compose.override.yml
